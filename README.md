@@ -9,18 +9,32 @@
 ## 목차
 
 파란 글씨를 누르면 해당 목차로 이동합니다.
-* [1. 원리](#chapter-principle)
-* [2. 바이브온 계신기 사용법](#chapter-instruction)
-* [3. 업데이트 내역](#chapter-update)
-* [4, 주의사항](#chapter-precautions)
-* [5. 라이선스](#chapter-License)
+* [1. 대학진학률 계신기 사용법](#chapter-instruction)
+* [2. 업데이트 내역](#chapter-update)
+* [3, 주의사항](#chapter-precautions)
+* [4. 라이선스](#chapter-License)
 
 <br/>
 
 ---
 
-<a id="chapter-principle"></a>
-### 1.원리
+<a id="chapter-instruction-1"></a>
+### 2.대학진학률 계산기 사용법
 
+#### 대학구분
+
+|모집군|대학명|학과명|합격확률예상|산택|
+|:---:|:---:|:---:|:---:|:---:|
+|나군|한국대학교|의예|25%|O|
+
+* 모집군과 합격확률예상, 선택여부는 표시하여야 정상적으로 작동됩니다.
+* 대학명과 학과명은 사용의 편의르 위해 입력하도록 되어있으므로 입력하지 않아도 무관합니다.
+
+- 선택여부는 반드시 영문 대문자 'O'로 표기하여아 합니다.
 
 <br/>
+<br/>
+
+#### 상태메세
+
+* 
